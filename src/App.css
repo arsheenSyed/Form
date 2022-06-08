@@ -1,0 +1,18 @@
+.form-control:focus {
+  /* border: 5px solid red !important; */
+  box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+}
+
+button {
+  background-color: #173e67 !important;
+  transition: 0.2s ease;
+}
+
+button:hover {
+  background-color: #1d528a !important;
+}
+
+.forgotpassword {
+  font-size: 13px;
+  text-align: right;
+}
